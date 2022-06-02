@@ -1,4 +1,4 @@
-# ChristBASHTree
+# BASHTree
 
 ![tree](tree.png)
 
